@@ -93,10 +93,3 @@ def start():
     hangman(word)
 
 start()
-
-
-# In[ ]:
-
-
-
-
